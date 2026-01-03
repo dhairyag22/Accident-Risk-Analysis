@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing accident risk using a structured dataset containing road, traffic, environmental, and temporal features. The objective is to understand the key factors contributing to accident risk through detailed **exploratory data analysis (EDA)** and to enhance the dataset using **feature engineering techniques**.
+This project focuses on analyzing accident risk using a structured dataset containing road, traffic, environmental, and temporal features. The objective is to understand the key factors contributing to accident risk through detailed **Exploratory Data Analysis (EDA)** and to enhance the dataset using **feature engineering techniques**.
 
 ## Dataset Description
 
